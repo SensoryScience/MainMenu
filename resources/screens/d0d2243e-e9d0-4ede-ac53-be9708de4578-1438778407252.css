@@ -1,0 +1,40 @@
+#s-d0d2243e-e9d0-4ede-ac53-be9708de4578 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-d0d2243e-e9d0-4ede-ac53-be9708de4578 > #alignmentBox {
+  position: relative;
+  margin: 0 auto;
+  width: 1280px;
+  min-width: 1280px;
+  min-height: 800px;
+}
+#s-d0d2243e-e9d0-4ede-ac53-be9708de4578 #s-Image_5 {
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  width: 1280px;
+  height: 800px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-d0d2243e-e9d0-4ede-ac53-be9708de4578 #s-Image_1 {
+  position: absolute;
+  top: 366px;
+  left: 590px;
+  width: 100px;
+  height: 100px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+  cursor: pointer;
+}
+#s-d0d2243e-e9d0-4ede-ac53-be9708de4578 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
